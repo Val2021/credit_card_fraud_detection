@@ -1,0 +1,15 @@
+ipython
+jupyter-client
+jupyter-console
+jupyter-core
+jupyter
+matplotlib 
+numpy
+openpyxl 
+pandas
+plotly
+scikit-learn
+scipy 
+seaborn 
+statsmodels
+tabulate
